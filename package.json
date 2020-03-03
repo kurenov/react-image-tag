@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/kurenov/react-image-tag#readme",
   "dependencies": {
+    "prop-types": "^15.7.2",
+    "ramda": "^0.27.0",
     "react": "^16.13.0",
+    "styled-components": "^5.0.1",
     "webpack": "^4.42.0"
   },
   "devDependencies": {
